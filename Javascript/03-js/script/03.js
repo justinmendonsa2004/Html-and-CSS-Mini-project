@@ -59,7 +59,7 @@ if (numOne > numTwo) {
 
 //Switch
 
-let alph = "e";
+let alph = "d";
 
 switch (alph) {
   case "a":
