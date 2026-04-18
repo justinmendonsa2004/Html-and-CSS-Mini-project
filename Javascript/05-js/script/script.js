@@ -52,5 +52,5 @@ function fact(num) {
   }
 }
 
-let A = fact(5);
+let A = fact(6);
 console.log(A);
