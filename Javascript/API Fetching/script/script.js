@@ -1,5 +1,5 @@
 /*console.log("share the video");
-
+//get method using async and wait....
 let url = "https://jsonplaceholder.typicode.com/users";
 
 async function getData(url) {
