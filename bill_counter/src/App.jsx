@@ -30,7 +30,16 @@ function App() {
           />
         </div>
       </div>
-
+      <div className="allProducts">
+        <table>
+          <tr>
+            <th>SL</th>
+            <th>Name</th>
+            <th>QTY</th>
+            <th>Total</th>
+          </tr>
+        </table>
+      </div>
       <div className="itemInput">
         <div className="productNamebox">
           <label htmlFor="productname">Product Name:</label>
