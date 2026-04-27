@@ -1,0 +1,28 @@
+.customerdetails{
+  display: flex;
+  border: 2px solid black;
+  padding: 20px;
+  display: flex;
+  background-color: aqua;
+}
+.customername{
+  margin-right: 100px;
+}
+
+.itemInput{
+  border: 2px solid black;
+  margin-top: 20px;
+  display:flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+ 
+ 
+  
+.itemInput>div{
+  width: 300px;
+  margin: 10px;
+}
