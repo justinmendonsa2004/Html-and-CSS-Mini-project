@@ -37,6 +37,7 @@ function App() {
             <th>Name</th>
             <th>QTY</th>
             <th>Total</th>
+            <th>RM</th>
           </tr>
         </table>
       </div>
