@@ -1,0 +1,17 @@
+.navbar{
+    border: 2px solid black;
+    background-color:aqua;
+    border-radius: 10px;
+    
+}
+.navbox{
+    display: flex;
+}
+.navItems{
+    margin: 10px;
+    text-decoration: none;
+    list-style: none;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}

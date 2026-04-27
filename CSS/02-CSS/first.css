@@ -1,0 +1,29 @@
+.child{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    color: rgb(249, 249, 249);
+    padding: 10px;
+    text-align: center;
+}
+.box{
+    width: 100%;
+    height: 900px;
+    border: 2px solid red;
+    background-color: green;
+    background: url(https://images7.alphacoders.com/411/thumb-1920-411820.jpg) no-repeat;
+}
+
+p{
+   font-family:Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size:larger;
+   font-style: italic;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+   font-size:larger;
+   font-style: italic;
+}
