@@ -1,0 +1,98 @@
+.customerdetails{
+  display: flex;
+  border: 2px solid black;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  background-color:  rgb(169, 133, 93);
+  border-radius: 10px;
+}
+.customername{
+  margin-right: 20px;
+}
+
+.itemInput{
+  border: 2px solid black;
+  margin-top: 20px;
+  display:flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(169, 133, 93);
+  margin: 10px;
+  border-radius: 10px;
+}
+ 
+ 
+  
+.itemInput>div{
+  width: 300px;
+  margin: 10px;
+}
+
+.allProducts{ 
+  margin: 20px;
+  display: flex;
+   align-items: center;
+  flex-direction: column;
+}
+.allProducts>table{
+  border: 2px solid black;
+  padding: 10px;
+  width: 80%;
+  text-align: center;
+  border-collapse: collapse;
+}
+.allProducts>button{
+  margin-top: 10px;
+}
+/* ===== TABLE STYLE ===== */
+th, td {
+  border: 1px solid rgb(19, 231, 231);
+  padding: 10px;
+  color: white;
+}
+
+th,tr,td{
+  border: 1px solid rgb(19, 231, 231);
+}
+
+.generatedBillBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.Billcalculate{
+  border: 2px solid black;
+  background-image: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?cs=srgb&dl=pexels-pixabay-235985.jpg&fm=jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  height: 100vh;
+  margin: 0;
+}
+          
+label{
+  color: white;
+}
+th,td,tr{
+  color: white;
+}
+p{
+  color: white;
+}
+#Button{
+  color: rgb(243, 243, 246);
+  background-color: rgb(46, 46, 204);
+  border-radius: 20px;
+  border: none;
+}
+
+#Button:hover {
+  background-color: rgb(30, 30, 150);
+}
