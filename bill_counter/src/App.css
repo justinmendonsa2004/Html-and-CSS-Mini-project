@@ -26,3 +26,29 @@
   width: 300px;
   margin: 10px;
 }
+
+.allProducts{ 
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.allProducts>table{
+  border: 2px solid black;
+  padding: 20px;
+}
+.allProducts>button{
+  margin-top: 10px;
+}
+
+th,tr,td{
+  border: 1px solid aqua;
+}
+
+.generatedBillBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
