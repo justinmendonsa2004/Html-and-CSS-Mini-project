@@ -1,0 +1,21 @@
+.cardBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  width: 200px;
+  height: 130px;
+  border: 2px solid black;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cardImg{
+  height: 100px;
+  border: 1px solid black;
+  padding: 10px;
+}
